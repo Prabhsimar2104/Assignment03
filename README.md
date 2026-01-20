@@ -9,15 +9,14 @@ Parameter Estimation → PDF Modeling → Result Analysis
 
 ---
 
-## 2. Description
+## Dataset Information
 
-- Dataset Used: India Air Quality Dataset
-- Dataset Source: Kaggle
+- Dataset Name: India Air Quality Dataset
+- Source: Kaggle
 - Dataset Link: https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
-- Feature Selected: NO₂ concentration
-- Data Cleaning: Missing values removed
-- Transformation: Roll-number-based non-linear sine transformation
-- Model Used: Gaussian-like Probability Density Function
+- Feature Used: NO₂ concentration
+- Description: The dataset contains air quality measurements collected across multiple Indian cities. The NO₂ feature is used as the input variable for learning the probability density function.
+
 
 ---
 
