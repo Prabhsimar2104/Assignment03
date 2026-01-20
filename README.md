@@ -101,9 +101,8 @@ This assignment demonstrates the application of non-linear transformations and p
 ## 10. Repository Structure
 
 Assignment03  
-│── Learn_PDF_using_Nonlinear_Model.ipynb  
+│── Assignment03.ipynb  
 │── README.md  
-│── india_air_quality_data.csv  
 
 ---
 
